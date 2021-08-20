@@ -20,7 +20,7 @@
   cursor: pointer;
 }
 
-.App input {
+.input {
   padding: 14px 32px 14px 16px;
   border-radius: 4px 0 0 4px;
   border: 2px solid blue;
